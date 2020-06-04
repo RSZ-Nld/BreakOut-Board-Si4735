@@ -5,6 +5,6 @@ Made a breakout pcb for the Si4735.
 
 ## Photos
 ### “Top Pcb”
-![Top]( https://github.com/RSZ-Nld/Si4735/blob/master/109.jpg)
+![Top]( https://github.com/RSZ-Nld/BreakOut-Board-Si4735/blob/master/Top.jpg)
 ### “Bottom”
-![Photo 1]( https://github.com/RSZ-Nld/Si4735/blob/master/431.jpg)
+![Photo 1]( https://github.com/RSZ-Nld/BreakOut-Board-Si4735/blob/master/Bottom.jpg)
